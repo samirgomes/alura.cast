@@ -70,15 +70,15 @@ body {
 }
 
 .menu-lateral__link--home::before {
-    content: url("../img/icone-home.svg");
+    content: url("icone-home-mb.svg");
 }
 
 .menu-lateral__link--busca::before {
-    content: url("../img/icone-busca.svg");
+    content: url("icone-busca.svg");
 }
 
 .menu-lateral__link--biblioteca::before {
-    content: url("../img/icone-biblioteca.svg");
+    content: url("icone-biblioteca.svg");
 }
 
 .menu-lateral__playlist {
@@ -87,11 +87,11 @@ body {
 }
 
 .menu-lateral__link--playlist::before {
-    content: url("../img/icone-add_box.svg");
+    content: url("icone-add_box.svg");
 }
 
 .menu-lateral__link--podcasts::before {
-    content: url("../img/icone-stars.svg");
+    content: url("icone-stars.svg");
 }
 
 /*Header*/
@@ -183,14 +183,14 @@ body {
 }
 
 .navbar__item--home::before {
-    content: url("../img/icone-home-mb.svg");
+    content: url("icone-home-mb.svg");
 }
 
 .navbar__item--busca::before {
-    content: url("../img/icone-busca-mb.svg");
+    content: url("icone-busca-mb.svg");
 
 }
 
 .navbar__item--biblioteca::before {
-    content: url("../img/icone-biblioteca-mb.svg");
+    content: url("icone-biblioteca-mb.svg");
 }
