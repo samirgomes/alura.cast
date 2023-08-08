@@ -52,7 +52,7 @@ body {
 
 .menu-lateral__link::before  {
     padding-left: 1rem;
-    padding-right: .5rem;
+    padding-right: 0.5rem;
     vertical-align: middle;
 }
 
@@ -70,15 +70,15 @@ body {
 }
 
 .menu-lateral__link--home::before {
-    content: url("../img/icone-home.svg");
+    content: url("icone-home.svg");
 }
 
 .menu-lateral__link--busca::before {
-    content: url("../img/icone-busca.svg");
+    content: url("icone-busca.svg");
 }
 
 .menu-lateral__link--biblioteca::before {
-    content: url("../img/icone-biblioteca.svg");
+    content: url("icone-biblioteca.svg");
 }
 
 .menu-lateral__playlist {
@@ -87,11 +87,11 @@ body {
 }
 
 .menu-lateral__link--playlist::before {
-    content: url("../img/icone-add_box.svg");
+    content: url("icone-add_box.svg");
 }
 
 .menu-lateral__link--podcasts::before {
-    content: url("../img/icone-stars.svg");
+    content: url("icone-stars.svg");
 }
 
 /*Header*/
@@ -156,7 +156,7 @@ body {
     margin-bottom: .5rem;
 }
 .secao-vertical .cartao__subtitulo {
-    margin-top: .75rem;
+    margin-top: 0.75rem;
 }
 
 /*Navbar*/
@@ -169,11 +169,11 @@ body {
 }
 .navbar__items {
     width: 80%;
-    margin: .5rem auto;
+    margin: 0.5rem auto;
 }
 
 .navbar__item {
-    font-size: .75rem;
+    font-size: 0.75rem;
     text-align: center;
 }
 
@@ -183,16 +183,16 @@ body {
 }
 
 .navbar__item--home::before {
-    content: url("../img/icone-home-mb.svg");
+    content: url("icone-home-mb.svg");
 }
 
 .navbar__item--busca::before {
-    content: url("../img/icone-busca-mb.svg");
+    content: url("icone-busca-mb.svg");
 
 }
 
 .navbar__item--biblioteca::before {
-    content: url("../img/icone-biblioteca-mb.svg");
+    content: url("icone-biblioteca-mb.svg");
 }
 
 /*rodape*/
@@ -223,7 +223,7 @@ body {
 }
 
 .rodape__horario {
-    font-size: .75rem;
+    font-size: 0.75rem;
 }
 
 .barra__container--reproducao, .rodape__barra--reproducao div {
